@@ -1,0 +1,25 @@
+{
+  "name": "wacom",
+  "version": "1.0.0",
+  "description": "Wacom is an onine transaction platform",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HakzTV/Wacom.git"
+  },
+  "author": "Wacom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HakzTV/Wacom/issues"
+  },
+  "homepage": "https://github.com/HakzTV/Wacom#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "lodash": "^4.17.21"
+  }
+}
